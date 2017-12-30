@@ -10,6 +10,7 @@ stylesheets-remove:
 # Add your CSS
 libraries:
   - caxy/global-css
+  - caxy/global-js
 
 regions:
   headline: headline
