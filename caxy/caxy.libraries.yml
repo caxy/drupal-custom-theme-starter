@@ -1,0 +1,10 @@
+global-css:
+  css:
+    theme:
+      css/style.css: {}
+      css/bootstrap.css: {}
+global-js:
+  js:
+    js/main.js: {}
+    js/bootstrap.js: {}
+

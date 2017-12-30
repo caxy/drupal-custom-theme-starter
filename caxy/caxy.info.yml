@@ -1,0 +1,19 @@
+name: caxy
+description: A theme to show how to build a basic theme
+type: theme
+core: 8.x
+
+# Remove defaults you do not want
+stylesheets-remove:
+  - "main.css"
+
+# Add your CSS
+libraries:
+  - caxy/global-css
+
+regions:
+  headline: headline
+  header: header
+  content: content
+  sidebar: sidebar
+  footer: footer
